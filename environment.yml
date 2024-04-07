@@ -1,0 +1,13 @@
+name: color_analysis
+channels:
+  - defaults
+dependencies:
+  - python==3.12
+  - numpy
+  - pandas
+  - matplotlib
+  - jupyterlab
+  - pip
+  - pip:
+    - python-dotenv==1.0.1
+ 
